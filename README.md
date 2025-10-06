@@ -14,4 +14,4 @@
 # Real cleanup
 #./clean_system.sh
 
-# Tools for home linux user : https://github.com/spyschools/clean-linux-system/
+#Tools for home linux user : https://github.com/spyschools/clean-linux-system/
