@@ -1,7 +1,6 @@
-# clean-linux-system-root
-Root Version Cleaner tools for Linux Debian. Clean apt cache. Removing old config files. Removing old kernels. Emptying every trashes 
+#  Cleaner tools for Linux Debian. Clean apt cache. Removing old config files. Removing old kernels. Emptying every trashes (Root Version) 
 
-*go to root terminal
+# Go to root terminal
 
 #  git clone https://github.com/spyschools/clean-linux-system-root.git
 
@@ -9,8 +8,10 @@ Root Version Cleaner tools for Linux Debian. Clean apt cache. Removing old confi
 
 # chmod +x clean_system.sh
 
-Safe mode (no deletion)
+# Safe mode (no deletion)
 #  ./clean_system.sh --dry-run
 
-Real cleanup
+# Real cleanup
 # ./clean_system.sh
+
+# Tools for home linux user : https://github.com/spyschools/clean-linux-system/
