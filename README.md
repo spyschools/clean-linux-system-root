@@ -32,7 +32,7 @@ git clone https://github.com/spyschools/clean-linux-system-root.git
 cd clean-linux-system-root
 
 # Make the script executable
-chmod +x clean_system.sh
+chmod +x *
 ```
 
 ---
